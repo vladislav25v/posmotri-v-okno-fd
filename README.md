@@ -1,3 +1,5 @@
+https://github.com/vladislav25v/posmotri-v-okno-fd
+
 # Look Out the Window (Project Work)
 
 This project was developed as part of the Yandex Practicum Frontend Developer course. The goal of the project is to reinforce theoretical knowledge and practice the skills of semantic markup, styling, and accessibility within a real layout case.
