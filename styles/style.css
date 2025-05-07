@@ -290,7 +290,7 @@ input:focus {
 }
 
 .content__video-card:hover {
-  cursor: url("/img/image 52.png"), pointer;
+  cursor: url("/img/image52.png"), pointer;
 }
 
 .content__video-card:active {
