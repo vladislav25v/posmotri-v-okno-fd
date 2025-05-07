@@ -177,7 +177,7 @@ input:focus {
   text-decoration-thickness: 0;
   text-underline-offset: 4px;
   text-decoration-color: currentColor;
-  cursor: url("/img/image 52.png") 4 4, pointer;
+  cursor: url("/img/image52.png") 4 4, pointer;
 }
 
 .button {
@@ -202,7 +202,7 @@ input:focus {
   text-underline-offset: 4px;
   text-decoration-color: currentColor;
   cursor: pointer;
-  cursor: url("/img/image 52.png") 4 4, pointer;
+  cursor: url("/img/image52.png") 4 4, pointer;
 }
 
 .button:active {
@@ -229,7 +229,7 @@ input:focus {
 }
 
 .title {
-  margin-bottom: 26px;
+  margin-bottom: 17px;
   font-family: Oswald;
   font-weight: 700;
   font-size: 75px;
@@ -302,8 +302,6 @@ input:focus {
 }
 
 .content__video-card-title {
-  margin-top: 0;
-  margin-bottom: 6px;
   max-width: 196px;
   white-space: nowrap;
   overflow: hidden;
