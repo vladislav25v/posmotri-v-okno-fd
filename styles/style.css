@@ -249,7 +249,7 @@ input:focus {
 
 .content__list-container {
   position: relative;
-  max-height: 299px;
+  height: 299px;
   flex-grow: 1;
   overflow-y: auto;
 }
